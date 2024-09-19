@@ -1,4 +1,4 @@
 # now lets make a simple sorting engine
-random_numbers = [2,5,6,1,8,3]
-random_numbers.sort()
-print(random_numbers)
+random_numbers = [1, 4, 3, 2]
+sorted_numbers = sorted(random_numbers)
+print(sorted_numbers)
