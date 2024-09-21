@@ -3,7 +3,8 @@
 import csv
 
 # lets read the CSV file
-with open('data.csv', newline='') as csvfile:
+# replace name with your actual windows username. (if you are running this)
+with open('C:/Users/name/Downloads/data.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     
     ages = []
