@@ -17,3 +17,5 @@ we will use this for a simple age avrage finding program. this is really simple 
 (who knows this might help you learn how to do a lot in python me too!)
 ## day 4:
 we will make a simple grading program today. and update our undertsanding of other ways to use CSV files with python!
+## day 5:
+a little review
