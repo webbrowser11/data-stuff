@@ -7,7 +7,7 @@ print(sorted_numbers)
 
 # and... sort a CSV file
 # replace name with your actual windows username.
-with open('C:/Users/graham/Downloads/data-example.csv', newline='') as csvfile:
+with open('C:/Users/name/Downloads/data-example.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     
     ages = []
